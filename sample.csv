@@ -1,5 +1,5 @@
 cognito:username,name,given_name,family_name,middle_name,nickname,preferred_username,profile,picture,website,email,email_verified,gender,birthdate,zoneinfo,locale,phone_number,phone_number_verified,address,updated_at,cognito:mfa_enabled
-admin,admin,,,,,,,,,admin@example.com,TRUE,,,,,FALSE,,FALSE
-userA,userA,,,,,,,,,userA@example.com,TRUE,,,,,FALSE,,FALSE
-userB,userB,,,,,,,,,userB@example.com,TRUE,,,,,FALSE,,FALSE
-userC,userC,,,,,,,,,userC@example.com,TRUE,,,,,FALSE,,FALSE
+admin,admin,,,,,,,,,admin@example.com,TRUE,,,,,,FALSE,,,FALSE
+userA,userA,,,,,,,,,userA@example.com,TRUE,,,,,,FALSE,,,FALSE
+userB,userB,,,,,,,,,userB@example.com,TRUE,,,,,,FALSE,,,FALSE
+userC,userC,,,,,,,,,userC@example.com,TRUE,,,,,,FALSE,,,FALSE
