@@ -1,4 +1,4 @@
-cognito:username,name,email,cognito:isAdmin,email_verified,phone_number,phone_number_verified,cognito:mfa_enabled,given_name,family_name,middle_name,nickname,preferred_username,profile,picture,website,gender,birthdate,zoneinfo,locale,address,updated_at
+cognito:username,name,email,custom:isAdmin,email_verified,phone_number,phone_number_verified,cognito:mfa_enabled,given_name,family_name,middle_name,nickname,preferred_username,profile,picture,website,gender,birthdate,zoneinfo,locale,address,updated_at
 userA,userA,userA@example.com,FALSE,TRUE,,FALSE,FALSE,,,,,,,,,,,,,,
 userB,userB,userB@example.com,FALSE,TRUE,,FALSE,FALSE,,,,,,,,,,,,,,
 userC,userC,userC@example.com,FALSE,TRUE,,FALSE,FALSE,,,,,,,,,,,,,,
